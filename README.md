@@ -1,2 +1,3 @@
 # kaggle_utils
-kaggleでよく使うものを適当にまとめたもの
+data_analyze:データ分析に使うファイル
+utils: 汎用的な処理をするファイル
