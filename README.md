@@ -1,1 +1,2 @@
 # kaggle_utils
+kaggleでよく使うものを適当にまとめたもの
